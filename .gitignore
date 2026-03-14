@@ -1,0 +1,10 @@
+# MT4 compiled files
+*.ex4
+*.ex5
+
+# Logs
+*.log
+
+# Windows
+Thumbs.db
+desktop.ini
